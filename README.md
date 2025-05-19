@@ -1,6 +1,8 @@
 # 📸 JavaScript Project 2 - Image & Text Changer
 This is a simple JavaScript mini-project that demonstrates DOM manipulation using mouse events. The project changes an image and associated text when the user hovers over it (mouseover event) and reverts back to the original content when the mouse is moved away (mouseleave event).
 
+# Live Project Link : https://java-script-project2-image-changer.vercel.app/ 
+
 # ✅ Features:
 Uses mouseover and mouseleave events
 Dynamically updates image source and text content
